@@ -8,5 +8,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=static_sea)](https://solved.ac/static_sea)  [![Commits Badge](https://badges.strrl.dev/contributions/all/forseaest)](https://badges.strrl.dev)
 
-[![다시좋아짐](https://img.youtube.com/vi/J0rmycJSPAE/0.jpg)](https://youtu.be/J0rmycJSPAE?si=BBUW0YQeM0y_Hum2)
+[![행복](https://img.youtube.com/vi/FBK49sf6O64/0.jpg)](https://youtu.be/FBK49sf6O64?si=y0IoHkK8GWFKtYq2)
 
